@@ -11,8 +11,6 @@ High-level overview of steps in session?
 What should I have before getting started?
 
 ---
----
-
 ### Used Sources
 
 ### Related Sources & Resources
