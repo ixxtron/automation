@@ -7,8 +7,8 @@ This lesson is intended for anyone who's getting getting started for the first t
 
 **Before getting started...** 
 You mus have a github account
-### Getting Started with GitHub Workflow (Starters)
-To get startyed select the type of workflow from github GitHub Actions: Starters 
+### Working with GitHub Workflow (Starters)
+To get started select the type of workflow from github GitHub Actions: Starters 
 - [Continuous Integration Based Workflows](https://github.com/actions/starter-workflows)
 - [Automation Based Workflows](https://github.com/actions/starter-workflows/tree/main/automation)
 
