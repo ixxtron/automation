@@ -12,7 +12,7 @@ To get started select the type of workflow from github GitHub Actions: Starters
 - [Continuous Integration Based Workflows](https://github.com/actions/starter-workflows)
 - [Automation Based Workflows](https://github.com/actions/starter-workflows/tree/main/automation)
 
-# Adding a GitHub Actions workflow
+# Adding a GitHub Actions Workflow
 To an existing repo ( < 5 minutes)
 ---
 1. From your repository on GitHub, create a new file in the `.github/workflows` directory named `superlinter.yml`
