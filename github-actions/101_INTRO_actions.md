@@ -16,11 +16,13 @@ To get started select the type of workflow from github GitHub Actions: Starters
 To an existing repo ( < 5 minutes)
 ---
 1. From your repository on GitHub, create a new file in the `.github/workflows` directory named `superlinter.yml`
-2. Copy the following `YAML` contents into the `superlinter.yml` file. Note: If your default branch is not main, update the value of `DEFAULT_BRANCH` to match your repository's default branch name.
+2. Copy the following `YAML` contents into the `superlinter.yml` file. Note: If your default branch is not main, update \ 
+the value of `DEFAULT_BRANCH` to match your repository's default branch name.
 `name: Super-Linter`
 
 **Run this workflow every time a new commit pushed to your repository on: `push`**
-```jobs:
+```
+jobs:
   # Set the job key. The key is displayed as the job name
   # when a job name is not provided
   super-lint:
@@ -39,12 +41,15 @@ To an existing repo ( < 5 minutes)
         uses: github/super-linter@v3
         env:
           DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}```
-          
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ ```
 To run your workflow, scroll to the bottom of the page and select Create a new branch for this commit and start a pull request. Then, to create a `pull request`, click `Propose new file`.
 
 ### Used Sources
 ---
 ### Related Sources & Resources
 -
+
+
+          
 
