@@ -46,9 +46,14 @@ jobs:
 To run your workflow, scroll to the bottom of the page and select Create a new branch for this commit and start a pull request. Then, to create a `pull request`, click `Propose new file`.
 
 ### Used Sources
+- https://docs.github.com/en/free-pro-team@latest/actions/quickstart
+- https://github.com/actions/starter-workflows
+- https://github.com/actions/starter-workflows/tree/main/automation
+
 ---
 ### Related Sources & Resources
--
+[Introduction to GitHub Actions : my website build & deployment](https://www.youtube.com/watch?reload=9&v=rgxbeIvQj0Q)
+
 
 
           
