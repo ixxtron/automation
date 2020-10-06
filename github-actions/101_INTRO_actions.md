@@ -1,13 +1,14 @@
-# GitHub Actions Intro
+# GitHub Actions Workflows - Intro
 GitHub Actions workflows for Continuous Integration and automation pipelines/solutions
 ## Getting Started
 ---
 **What will be covered during this session?** \
-This lesson is intended for anyone who's getting getting started for the first time or needs to started with GitHub Actions\
-**Before getting started...**
+This lesson is intended for anyone who's getting getting started for the first time or needs to started with GitHub Actions \
+
+**Before getting started...** 
 You mus have a github account
-## Getting Started with GitHub Workflow (Starters)
-To get startyed select the type of workflow from github GitHub Actions: Starters** 
+### Getting Started with GitHub Workflow (Starters)
+To get startyed select the type of workflow from github GitHub Actions: Starters 
 - [Continuous Integration Based Workflows](https://github.com/actions/starter-workflows)
 - [Automation Based Workflows](https://github.com/actions/starter-workflows/tree/main/automation)
 
