@@ -13,8 +13,9 @@ To get startyed select the type of workflow from github GitHub Actions: Starters
 - [Continuous Integration Based Workflows](https://github.com/actions/starter-workflows)
 - [Automation Based Workflows](https://github.com/actions/starter-workflows/tree/main/automation)
 
-# Adding a GitHub Actions workflow to an existing repo ( < 5 minutes)
-
+# Adding a GitHub Actions workflow
+To an existing repo ( < 5 minutes)
+---
 1. From your repository on GitHub, create a new file in the `.github/workflows` directory named `superlinter.yml`
 2. Copy the following `YAML` contents into the `superlinter.yml` file. Note: If your default branch is not main, update the value of `DEFAULT_BRANCH` to match your repository's default branch name.
 `name: Super-Linter`
