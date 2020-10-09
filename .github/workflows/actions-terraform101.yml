@@ -42,17 +42,15 @@
 #       with:
 #         cli_config_credentials_token: ${{ secrets.TF_API_TOKEN }}
 
-name: 'Terraform 101'
+name: "Terraform 101"
 
 on:
   pull_request:
   push:
-    branches:
-      - actions-terraform101/
 
 jobs:
   terraform:
-    name: 'Terraform Init'
+    name: "Terraform Init"
     runs-on: ubuntu-latest
     steps:
     # Checkout the repository to the GitHub Actions runner
